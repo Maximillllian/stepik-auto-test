@@ -1,6 +1,7 @@
 from pyperclip import copy
 import math
 
+# Функции для быстрой работы по курсу
 
 def calculate_equation(x):
     res = math.log(abs(12 * math.sin(x)))
